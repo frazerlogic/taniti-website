@@ -3,7 +3,7 @@ body {
 }
 
 .lodging-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('lodging.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/taniti-website/lodging.jpg');
   background-size: cover;
   background-position: center;
   height: 300px;
