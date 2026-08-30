@@ -3,7 +3,7 @@ body {
 }
 
 .getting-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/travelto.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('travelto.jpg');
   background-size: cover;
   height: 300px;
   display: flex;

@@ -3,7 +3,7 @@
 }
 
 .page-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/attractionsbg.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('attractionsbg.jpg');
   background-size: cover;
   background-position: center;
   height: 300px;

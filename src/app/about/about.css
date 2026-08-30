@@ -3,7 +3,7 @@ body {
 }
 
 .about-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/about.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('about.jpg');
   background-size: cover;
   background-position: center;
   height: 300px;
